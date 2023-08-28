@@ -1,4 +1,4 @@
-# Dalhousie-University-CSCI5308-ASDC-FInal-Project
+# FarmFood
 
 🌾 Farm n Food - Digital solution for agriculture industry
 
@@ -12,12 +12,8 @@ Goals:
 • A database records and tracks farming and breeding activities.
 
 
-# CSCI 5308 Project
-### Farm N Food
-### Group 13 - Developer Team
-### Group 15- Client Team
-### Link - https://farm-food13.herokuapp.com
-### Installation Instructions
+
+
 
 • This a Django project, so make sure you have `Python`,`MySQL` Installed in the system.
 
